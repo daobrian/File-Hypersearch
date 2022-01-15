@@ -1,5 +1,5 @@
 # File Hypersearch
- Windows Search Utility with GUI that searches for files globally by name
+ Windows Search Utility with GUI that searches for files globally by name.
  
 # Usage
 - Reindex the first time the program is ran to generate a data file containing pathnames and all files in those paths (Note: this process may take several minutes depending how many files are on your PC)
