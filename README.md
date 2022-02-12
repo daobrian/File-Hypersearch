@@ -8,3 +8,5 @@
 - Double click on an entry to copy the file's path to clipboard (message should appear in bottom right corner of window)
 - Lower left corner displays a count of matches found
 - Click on table headings (Name, Path, Size, Date Modified) to sort entries
+
+![Screenshot](gui.PNG)
