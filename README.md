@@ -9,4 +9,5 @@
 - Lower left corner displays a count of matches found
 - Click on table headings (Name, Path, Size, Date Modified) to sort entries
 
+
 ![Screenshot](gui.PNG)
